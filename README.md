@@ -1,1 +1,1 @@
-# Random-GIF-Project
+# random-gifs
